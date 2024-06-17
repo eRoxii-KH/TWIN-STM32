@@ -25,11 +25,20 @@ Select "Contributed" type.
 <img width="637" alt="image" src="https://github.com/eRoxii-KH/TWIN-STM32/assets/172578274/3465eaf9-e80d-46ec-ac7a-3cb8358d7e14">
 
 Select the "STM32 MCU based boards" and click on install.
+<img width="638" alt="image" src="https://github.com/eRoxii-KH/TWIN-STM32/assets/172578274/98376c6e-6676-4620-aeb0-d1e673ef60fa">
 
 After installation is complete an "INSTALLED" tag appears next to the core name.
 
-You can close the Board Manager.
+You can select board stm32.
 
+<img width="638" alt="image" src="https://github.com/eRoxii-KH/TWIN-STM32/assets/172578274/e7bdc818-747d-4865-9dff-c9f16132536e">
 Now you can find the STM32 boards package in the "Board" menu.
 
-Select the desired boards series: STM32F1
+Select the desired boards series: STM32F103CBT6
+<img width="635" alt="image" src="https://github.com/eRoxii-KH/TWIN-STM32/assets/172578274/48c06c92-f25e-4440-a0a2-8b11eea8d3c5">
+
+Select Upload method "STM32CubeProgramer(SWD)"
+<img width="637" alt="image" src="https://github.com/eRoxii-KH/TWIN-STM32/assets/172578274/822f202d-1f7c-4aee-b012-ab13bfc6d108">
+
+
+
